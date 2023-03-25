@@ -7,7 +7,7 @@ func main() {
 }
 
 func sum(a int, b int) int {
-	return a + b
+	return b + a
 }
 
 // func sub(a int, b int) int {
